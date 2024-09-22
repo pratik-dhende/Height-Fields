@@ -1,4 +1,4 @@
-# Height-Fields
+# Height Fields
 - The goal of this is to demonstrate how complex landscapes can be created by interpreting grayscale images, where each pixel's intensity represents the elevation at that point.
 - The [Height Field](https://en.wikipedia.org/wiki/Heightmap#:~:text=In%20computer%20graphics%2C%20a%20heightmap,display%20in%203D%20computer%20graphics.) is rendered in real-time, allowing for various interactive visual effects and transformations such as zooming, rotating, and panning across the terrain.
 
