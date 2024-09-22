@@ -52,7 +52,7 @@
   ```
 
 ## Demo
-15 FPS demo of all the features implemented
+The application runs at 60 FPS but the below animation is shown at 15 FPS created from recorded screenshots.
 
 https://github.com/user-attachments/assets/3450a9f6-7f3f-430e-8c1b-cf1c6035b97e
 
